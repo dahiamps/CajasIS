@@ -1,8 +1,46 @@
+.cont1 {
+    background-color: yellow;
+    height: 500px;
+    width: 800px;
+}
+
+.cont2 {
+    background-color: #f7080879;
+    height: 500px;
+    width: 800px;
+    margin-top: 50px;
+}
+
 .caja1 {
     background-color: aqua;
     height: 200px;
+    width: 200px;
+    padding: 60px 25px;
+    border: 15px tomato solid;
+    border-radius: 25px;
+    margin: 50px;
+    display: inline-block;
 }
 
 .caja2 {
     background-color: springgreen;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+}
+
+.caja3 {
+    background-color: #671feb;
+    height: 200px;
+    width: 200px;
+    margin: 50px;
+    display: inline-block;
+}
+
+.caja4 {
+    background-color: #ff0000;
+    height: 200px;
+    width: 200px;
+    margin-top: 50px;
+    display: inline-block;
 }
